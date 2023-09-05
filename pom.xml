@@ -11,7 +11,7 @@
 		<packname>-${project.version}-FL-${maven.build.timestamp}</packname>
 	</properties>
 	<packaging>war</packaging>
-	<name>The sdf Project</name>
+	<name>The sdf Project test 0905</name>
 	<description>The sdf Project</description>
 	<licenses>
 		<license>
